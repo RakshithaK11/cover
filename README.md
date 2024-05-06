@@ -31,9 +31,138 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
+~~~
+Register number:212223230009
+Developed By: AJITHKUMAR A
 
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>ARITIFICIAL INTELLIGENCE</title>
+    <style>
+        .bookpage{
+
+            width: 400px;
+            height: 700px;
+            color:rgb(175, 50, 50);
+            margin-left: auto;
+            margin-right: auto;
+            padding: 20px;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            background-image: url("background.jpeg");
+            background-size: cover;
+        }
+            
+        
+        .insight{
+            color:rgb(5, 16, 16);
+        
+        }
+        
+        
+        .hrstyle{
+            width:100px;
+        }
+        .author{
+        
+            display: inline;
+            position: relative;
+            color:rgb(193, 111, 40);
+            top:190px;
+            
+            font-family:Georgia;
+            font-size: medium;
+        }
+        .booktitle{
+            color:rgb(14, 3, 9);
+            font-family: 'Times New Roman', Times, serif;
+            font-size: larger;
+            text-align: left;
+            position: relative;
+            top: 30px;
+        
+        }
+        .id {
+            width:400px;
+            position: relative;
+            top:180px;
+            
+        }
+        .pub{
+            color:rgb(8, 19, 19);
+            font-size: medium;
+            position: relative;
+            top:155px;
+            left:330px;
+        }
+        .ed{
+            color:rgb(28, 20, 141);
+            font-size: medium;
+            font-family: Verdana;
+            position:relative;
+            top:85px;
+        
+        }
+        .subtitle{
+            color:rgb(10, 11, 11);
+            font-family:unicorn;
+            font-size: large;
+            position: relative;
+            top:40px;
+        }
+        .mypic{
+            position: relative;
+            top: 135px;
+            left: 260px;
+            width: 90px;
+            height: 80px;
+            background-size:contain;
+        }
+        </style>
+        <title>Book Cover Page</title>
+        </head>
+        <body>
+        <div class="bookpage">
+            <div class="insight">
+                AI&DS
+            </div>
+            <div class="hrstyle">
+                <hr style="color:blanchedalmond">
+            </div>
+            <div class="booktitle">
+                <h1>A Better<br>Life</h1></div>
+            <div class="subtitle">
+                 BASICS OF AI
+            </div>
+            <div class="subtitle">
+                 Top seller of 2024<br><br><br><br><br><br>
+            </div>
+
+            <div class="mypic">
+                <img src="photo.jpg" width="100" height="120" >
+            </div>
+            <div class="id">
+                <hr style="color:blanchedalmond">
+            </div>
+            <div class="author">
+               <p><b>Akshai Khanna D (212223040010)</b></p>
+            </div>
+            <div class="pub">
+                SEC
+            </div>
+            <div class="ed">
+                <b>SPECIAL EDITION</b>
+            </div>
+        </div>
+        </body>
+        
+
+</html>
+~~~
 
 ## OUTPUT:
+![image](https://github.com/Ajith1413/cover/assets/139842524/4c89fb45-cd01-43de-8c36-f3e333b83333)
 
 
 ## RESULT:
