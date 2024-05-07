@@ -146,7 +146,7 @@ Developed By: AJITHKUMAR A
                 <hr style="color:blanchedalmond">
             </div>
             <div class="author">
-               <p><b>Akshai Khanna D (212223040010)</b></p>
+               <p><b>AJITHKUMAR A (212223230009)</b></p>
             </div>
             <div class="pub">
                 SEC
